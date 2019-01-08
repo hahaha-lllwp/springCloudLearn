@@ -10,3 +10,5 @@ myconsumer2/\.idea/
 *.jar
 
 yundemo/\.idea/libraries/
+
+*.iml
