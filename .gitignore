@@ -1,0 +1,12 @@
+
+producer1/\.idea/libraries/
+
+myconsumer2/\.idea/libraries/
+
+myconsumer2/\.idea/
+
+*.class
+
+*.jar
+
+yundemo/\.idea/libraries/
